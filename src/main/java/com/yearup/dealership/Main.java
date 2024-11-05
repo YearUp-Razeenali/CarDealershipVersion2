@@ -1,0 +1,9 @@
+package com.yearup.dealership;
+
+public class Main {
+    public static void main(String[] args) {
+
+        System.out.println("CarDealership");
+        System.out.println("Hello world!");
+    }
+}
